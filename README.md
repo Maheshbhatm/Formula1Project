@@ -9,11 +9,13 @@
   </a>
 </div>
  
-Overview
+
+<h3>Overview</h3>
 
 Formula One is the highest class of international racing for open-wheel single-seater formula racing cars. Every season happened once a year, each race happened over weekends (Friday to Sunday). Each race is conducted in individual circuits. 10 Teams/Constructors will be participated. 2 Drivers will be assigned in a team. Saturday will be a qualifying round for the Sundays match. 50-70 Laps will be there on each race. Pitstop will be available to change tire or damages. Race results included driver standing and constructure standing.
 
-Source Date Files
+
+<h3>Source Date Files</h3>
 We are referring open-source data from website Ergast Developer API. Data available from 1950 till 2022.
 
 Circuits 	CSV
@@ -68,13 +70,14 @@ Data Model (http://ergast.com/images/ergast_db.png)
   <li>Ability to set-up alerts on failures </li> 
 </ul>  
 
-Technologies/Tools Used:
-•	Pyspark
-•	Spark SQL
-•	Delta Lake
-•	Azure Databricks 
-•	Azure Data Factory
-•	Azure Date Lake Storage Gen2
-•	Azure Key Fault
-•	Power BI
-
+<h3>Technologies/Tools Used:</h3>
+<ul>
+  <li>Pyspark</li> 
+  <li>Spark SQL</li> 
+  <li>Delta Lake</li> 
+  <li>Azure Databricks </li> 
+  <li>Azure Data Factory</li> 
+  <li>Azure Date Lake Storage Gen2</li> 
+  <li>Azure Key Fault</li> 
+  <li>Power BI</li> 
+</ul>  
