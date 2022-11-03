@@ -18,13 +18,18 @@ Formula One is the highest class of international racing for open-wheel single-s
 <h3>Source Date Files</h3>
 We are referring open-source data from website Ergast Developer API. Data available from 1950 till 2022.
 
-Circuits 	CSV
-Races 	CSV
-Constructors 	Single Line JSON
-Drivers 	Single Line Nested JSON
-Results	Single Line JSON
-PitStops 	Multi Line JSON
-LapTimes 	Split CSV Files
+
+| File Name  | File Type |
+| ------------- | ------------- |
+| Circuits  | CSV  |
+| Races | CSV |
+| Constructors  | Single Line JSON  |
+| Drivers | Single Line Nested JSON |
+| Results  | Single Line JSON  |
+| PitStops | Multi Line JSON |
+| LapTimes  | Split CSV Files  |
+| Qualifying | Split Multi Line JSON Files | 
+
 Qualifying 	Split Multi Line JSON Files
 
 Data Model (http://ergast.com/images/ergast_db.png)
