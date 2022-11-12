@@ -33,7 +33,9 @@ We are referring open-source data from website Ergast Developer API. Data availa
 Qualifying 	Split Multi Line JSON Files
 
 Data Model (http://ergast.com/images/ergast_db.png)
- 
+
+![Azure Architecture](https://user-images.githubusercontent.com/44454642/201458776-a8f93591-848a-41b1-b9a0-9d1c52ad5d7b.png)
+
 
 <h3>Data Ingestion Requirement</h3>
 <ul>
